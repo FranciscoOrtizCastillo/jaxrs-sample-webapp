@@ -1,4 +1,4 @@
-# Simple Rest Web Rervice with JAX-RS
+# Simple API Rest JAVA Web Service with JAX-RS
 
 ## Install in Mac :
 
